@@ -40,3 +40,9 @@ prove([[]],[[(!p & !q) -> (p <-> q)]]). % TRUE
 prove([[p <-> q]],[[(p <-> r) -> (q <-> r)]]). % TRUE
 ````
 More following soon.
+
+# References
+
+- Hao Wang, Toward Mechanical Mathematics, IBM Journal of Research and Development, volume 4, 1960.
+- Stuart Russell and Peter Nerving. 2009. Artificial Intelligence: A Modern Approach (3rd edition). Prentice Hall Press, Upper Saddle River, NJ, USA. (Chapters 8, 9 and 12)
+- Štěpán, Jan. "Propositional calculus proving methods in Prolog." Acta Universitatis Palackianae Olomucensis. Facultas Rerum Naturalium. Mathematica 29.1 (1990): 301-321.
